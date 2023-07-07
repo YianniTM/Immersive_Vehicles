@@ -20,7 +20,7 @@ public class ModItems {
     public static final RegistryObject<Item> HAMMER = ITEMS.register("hammer",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.IMMERSIVE_VEHICLES_ITEMS)));
 
-    public static final RegistryObject<Item> METAL_PLATING = ITEMS.register("metal_plating",
+    public static final RegistryObject<Item> METAL_PLATE = ITEMS.register("metal_plate",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.IMMERSIVE_VEHICLES_ITEMS)));
 
     public static final RegistryObject<Item> GEAR = ITEMS.register("gear",
@@ -48,6 +48,9 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.IMMERSIVE_VEHICLES_ITEMS)));
 
     public static final RegistryObject<Item> WHEEL = ITEMS.register("wheel",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.IMMERSIVE_VEHICLES_ITEMS)));
+
+    public static final RegistryObject<Item> CRANK = ITEMS.register("crank",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.IMMERSIVE_VEHICLES_ITEMS)));
 
     public static void register(IEventBus eventBus) {

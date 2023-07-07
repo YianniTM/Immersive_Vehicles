@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "immersive_vehicles:metal_plate"
+    }
+  },
+  "pattern": [
+    "#X ",
+    " # ",
+    " X#"
+  ],
+  "result": {
+    "item": "immersive_vehicles:crank"
+  }
+}

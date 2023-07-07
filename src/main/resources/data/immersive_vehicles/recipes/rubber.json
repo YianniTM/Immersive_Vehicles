@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "immersive_vehicles:rubber_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "immersive_vehicles:rubber"
+  }
+}

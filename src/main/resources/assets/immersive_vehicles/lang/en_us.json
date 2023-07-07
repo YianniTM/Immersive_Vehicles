@@ -2,7 +2,7 @@
   "item.immersive_vehicles.copper_wire": "Copper Wire",
   "item.immersive_vehicles.wire_cutter": "Wire Cutter",
   "item.immersive_vehicles.hammer": "Hammer",
-  "item.immersive_vehicles.metal_plating": "Metal Plating",
+  "item.immersive_vehicles.metal_plate": "Metal Plate",
   "item.immersive_vehicles.gear": "Gear",
   "item.immersive_vehicles.rubber": "Rubber",
   "item.immersive_vehicles.cylinder": "Cylinder",
@@ -12,6 +12,7 @@
   "item.immersive_vehicles.transmission": "Transmission",
   "item.immersive_vehicles.radiator": "Radiator",
   "item.immersive_vehicles.wheel": "Wheel",
+  "item.immersive_vehicles.crank": "Crank",
 
   "block.immersive_vehicles.rubber_block": "Rubber Block",
 
