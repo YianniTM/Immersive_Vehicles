@@ -1,3 +1,20 @@
 {
-  "item.immersive_vehicles.copper_wire": "Copper Wire"
+  "item.immersive_vehicles.copper_wire": "Copper Wire",
+  "item.immersive_vehicles.wire_cutter": "Wire Cutter",
+  "item.immersive_vehicles.hammer": "Hammer",
+  "item.immersive_vehicles.metal_plating": "Metal Plating",
+  "item.immersive_vehicles.gear": "Gear",
+  "item.immersive_vehicles.rubber": "Rubber",
+  "item.immersive_vehicles.cylinder": "Cylinder",
+  "item.immersive_vehicles.engine": "Engine",
+  "item.immersive_vehicles.chassis": "Chassis",
+  "item.immersive_vehicles.battery": "Battery",
+  "item.immersive_vehicles.transmission": "Transmission",
+  "item.immersive_vehicles.radiator": "Radiator",
+  "item.immersive_vehicles.wheel": "Wheel",
+
+  "block.immersive_vehicles.rubber_block": "Rubber Block",
+
+  "itemGroup.immersive_vehicles_items": "Immersive Vehicles (Items)",
+  "itemGroup.immersive_vehicles_blocks": "Immersive Vehicles (Blocks)"
 }
