@@ -15,6 +15,13 @@
   "item.immersive_vehicles.crank": "Crank",
 
   "block.immersive_vehicles.rubber_block": "Rubber Block",
+  "block.immersive_vehicles.rubber_log": "Rubber Log",
+  "block.immersive_vehicles.rubber_planks": "Rubber Planks",
+  "block.immersive_vehicles.rubber_wood": "Rubber Wood",
+  "block.immersive_vehicles.stripped_rubber_log": "Stripped Rubber Log",
+  "block.immersive_vehicles.stripped_rubber_wood": "Stripped Rubber Wood",
+  "block.immersive_vehicles.rubber_leaves": "Rubber Leaves",
+  "block.immersive_vehicles.rubber_sapling": "Rubber Sapling",
 
   "itemGroup.immersive_vehicles_items": "Immersive Vehicles (Items)",
   "itemGroup.immersive_vehicles_blocks": "Immersive Vehicles (Blocks)"

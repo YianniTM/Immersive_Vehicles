@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "immersive_vehicles:block/rubber_log",
+    "side": "immersive_vehicles:block/rubber_log"
+  }
+}

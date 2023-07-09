@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "immersive_vehicles:rubber_log",
+    "immersive_vehicles:rubber_wood",
+    "immersive_vehicles:stripped_rubber_log",
+    "immersive_vehicles:stripped_rubber_wood"
+  ]
+}
