@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": "#forge:is_jungle",
+  "biomes": "#forge:is_plains",
   "features": "immersive_vehicles:rubber_tree_placed",
   "step": "vegetal_decoration"
 }

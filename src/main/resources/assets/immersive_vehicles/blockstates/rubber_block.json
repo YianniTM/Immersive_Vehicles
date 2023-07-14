@@ -1,7 +1,7 @@
 {
-  "varients": {
+  "variants": {
     "": {
-      "model": "immersive_vehicles:block/rubber_block"
+      "model": "minecraft:block/rubber_block"
     }
   }
 }
